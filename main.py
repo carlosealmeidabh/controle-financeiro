@@ -179,4 +179,4 @@ def fechar_dia(dados: FechamentoDia):
         "caixa_real": dados.caixa_final,
         "diferenca_caixa": diferenca
     }
-# teste git funcionando
+
